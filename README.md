@@ -1,5 +1,6 @@
 https://www.youtube.com/watch?v=0eu4_lLFkGk&t=2897s
-
+<br />
+20:22
 <br />
 <br />
 ## prisma  세팅 
